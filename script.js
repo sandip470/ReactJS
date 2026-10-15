@@ -1,6 +1,6 @@
 
-import arr from './app.js'
-console.log(arr);
+import array from './app.js'
+console.log(array);
 
-import {user} from './app.js'
-console.log(user);
+import {username} from './app.js'
+console.log(username);
