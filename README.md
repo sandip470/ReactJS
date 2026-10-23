@@ -2,7 +2,7 @@
 
 This repository contains my React.js learning journey, from basic concepts to advanced topics. I will be practicing different concepts, writing code, and building small projects to improve my skills.
 
-### Topics Covered
+###Topics Covered
 - React Components and Props
 - State and Hooks
 - Event Handling
