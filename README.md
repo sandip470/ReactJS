@@ -1,4 +1,4 @@
-# ReactJS Learning ⚛️
+# ReactJS Learning 
 
 This repository contains my React.js learning journey, from basic concepts to advanced topics. I will be practicing different concepts, writing code, and building small projects to improve my skills.
 
@@ -12,4 +12,4 @@ This repository contains my React.js learning journey, from basic concepts to ad
 - Mini Projects
 
 ### Goal
-To learn React.js step by step and build interactive, modern web applications through hands-on practice. 🚀
+To learn React.js step by step and build interactive, modern web applications through hands-on practice. 
